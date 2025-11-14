@@ -16,7 +16,7 @@ spec:
       - name: nginx
         image: nginx:1.25
         ports:
-        - containerPort: 80
+        - containerPort: 85
         resources:
           requests:
             memory: "64Mi"
