@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chai-app
-        image: shazil91ali/chai-devops:v1.0.6
+        image: shazil91ali/chai-devopppppps:v1.0.6
         ports:
         - containerPort: 80
         env:
