@@ -4,9 +4,8 @@ kind: Kustomization
 
 # list the manifest files in this directory
 resources:
-  - deployment.yml
+  - nginx_deployment.yml
   - service.yml
-  - secret.yml
 
 # (optional) you can put commonLabels or namespace here if you want
 # commonLabels:
