@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: shazil91ali/nginx:latest
+        image: shazil91ali/nginx:1.28.8
         ports:
         - containerPort: 80
         resources:
